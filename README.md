@@ -5,7 +5,8 @@
 O objetivo deste mini-projeto é adquirir noções básicas de análises exploratórias consumindo dados de um banco, uma prática fundamental para qualquer cientista de dados. Para isso utilizei as linguagens Python (com as bibliotecas principais como NumPy, MatplotLib e Pandas), SQL e o banco de dados SQLite. Você pode ver o código principal no arquivo "main".
 
 #### 2. Contextualização :flashlight:
-Esse mini-projeto foi implementado por mim durante as práticas do curso "Fundamentos Python para Análise de Dados" da Data Science Academy, com algumas adaptações em relação à proposta original (Link para o curso: https://www.datascienceacademy.com.br/course/python-fundamentos). A ideia é explorar uma base de dados real e pública (IMDB Datasets) sobre filmes para responder algumas perguntas de negócio interessantes e - quem sabe - obter alguns insights sobre o assunto. As perguntas de negócio investigadas foram:
+Esse mini-projeto foi implementado por mim durante as práticas do curso "Fundamentos Python para Análise de Dados" da Data Science Academy, com algumas adaptações em relação à proposta original. Link para o curso: https://www.datascienceacademy.com.br/course/python-fundamentos). <br>
+Nele exploro uma base de dados real e pública (IMDB Datasets) sobre filmes para responder algumas perguntas de negócio interessantes e - quem sabe - obter alguns insights sobre o assunto. As perguntas de negócio investigadas foram:
 * 1 - Quais as categorias de produção mais comuns no IMBD?
 * 2 - Qual é o número de títulos de filmes por gênero?
 * 3 - Qual é a mediana das notas de avaliação por gênero de filme?
