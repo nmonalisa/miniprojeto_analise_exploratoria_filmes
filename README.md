@@ -22,4 +22,4 @@ Nele exploro uma base de dados real e pública (IMDB Datasets) sobre filmes para
 À medida que eu for aumentando o meu conhecimento sobre análise e ciência de dados pretendo expandir a análise exploratória básica realizada aqui, propondo hipóteses para explicar alguns dos resultados e realizando testes e análises mais refinadas para investigar a força das hipóteses propostas.
 
 
-E aí, tá esperando o que para pegar o seu baldinho de pipoca e começara aprender também? :blush:
+E aí, tá esperando o que para pegar o seu baldinho de pipoca e começar a aprender também? :blush:
